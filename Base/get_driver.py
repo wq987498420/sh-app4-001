@@ -20,4 +20,4 @@ def get_driver(pac, act):
     desired_caps['appActivity'] = act
 
     # 声明我们的driver对象
-    return webdriver.Remote('http://192.168.45.23/wd/hub', desired_caps)
+    return webdriver.Remote('http://127.0.0.1/wd/hub', desired_caps)
