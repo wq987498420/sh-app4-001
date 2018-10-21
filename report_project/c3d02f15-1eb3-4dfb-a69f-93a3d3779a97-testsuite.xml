@@ -1,0 +1,111 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1540109169200" stop="1540109263288">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1540109169200" status="passed" stop="1540109218900">
+      <description>
+        :param test_num: 用例编号
+        :param phone: 输入手机号
+        :param passwd: 输入密码
+        :param tag: 标记成功用例 1 成功用例  None 失败用例
+        :param tag_message: 获取toast消息方法参数
+        :param expect_result:预期结果
+        :return:
+        </description>
+      <name>Test_Login.test_login[test_login_001-13488834010-159357li-1-None-\u6211\u7684\u4f18\u60e0\u5238]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="824-MainThread"/>
+        <label name="host" value="DESKTOP-IUDAUVM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1540109218903" status="passed" stop="1540109233095">
+      <description>
+        :param test_num: 用例编号
+        :param phone: 输入手机号
+        :param passwd: 输入密码
+        :param tag: 标记成功用例 1 成功用例  None 失败用例
+        :param tag_message: 获取toast消息方法参数
+        :param expect_result:预期结果
+        :return:
+        </description>
+      <name>Test_Login.test_login[test_login_002- 13488834010-159357li-1-None-\u6211\u7684\u4f18\u60e0\u5238]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="824-MainThread"/>
+        <label name="host" value="DESKTOP-IUDAUVM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1540109233097" status="passed" stop="1540109246868">
+      <description>
+        :param test_num: 用例编号
+        :param phone: 输入手机号
+        :param passwd: 输入密码
+        :param tag: 标记成功用例 1 成功用例  None 失败用例
+        :param tag_message: 获取toast消息方法参数
+        :param expect_result:预期结果
+        :return:
+        </description>
+      <name>Test_Login.test_login[test_login_003-13488834010 -159357li-1-None-\u6211\u7684\u4f18\u60e0\u5238]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="824-MainThread"/>
+        <label name="host" value="DESKTOP-IUDAUVM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1540109246870" status="passed" stop="1540109254569">
+      <description>
+        :param test_num: 用例编号
+        :param phone: 输入手机号
+        :param passwd: 输入密码
+        :param tag: 标记成功用例 1 成功用例  None 失败用例
+        :param tag_message: 获取toast消息方法参数
+        :param expect_result:预期结果
+        :return:
+        </description>
+      <name>Test_Login.test_login[test_login_005-13488834010-159357li11-None-\u5bc6\u7801\u9519\u8bef-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="824-MainThread"/>
+        <label name="host" value="DESKTOP-IUDAUVM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1540109254570" status="passed" stop="1540109263288">
+      <description>
+        :param test_num: 用例编号
+        :param phone: 输入手机号
+        :param passwd: 输入密码
+        :param tag: 标记成功用例 1 成功用例  None 失败用例
+        :param tag_message: 获取toast消息方法参数
+        :param expect_result:预期结果
+        :return:
+        </description>
+      <name>Test_Login.test_login[test_login_007-13555555555-159357li11-None-\u6b64\u7528\u6237-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="824-MainThread"/>
+        <label name="host" value="DESKTOP-IUDAUVM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

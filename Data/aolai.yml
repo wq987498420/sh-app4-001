@@ -1,0 +1,27 @@
+test_login_001:
+  phone: "13488834010"
+  passwd: "159357li"
+  expect_result: "我的优惠券"
+  tag: 1 # 标示成功用例
+test_login_002:
+  phone: " 13488834010"
+  passwd: "159357li"
+  expect_result: "我的优惠券"
+  tag: 1
+test_login_003:
+  phone: "13488834010 "
+  passwd: "159357li"
+  expect_result: "我的优惠券"
+  tag: 1
+test_login_005:
+  phone: "13488834010"
+  passwd: "159357li11"
+  tag_message: "密码错误"
+  expect_result: "登录密码错误"
+test_login_007:
+  phone: "13555555555"
+  passwd: "159357li11"
+  tag_message: "此用户"
+  expect_result: "此用户不存在"
+
+
